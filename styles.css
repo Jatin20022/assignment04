@@ -282,7 +282,6 @@ ul li{
 form{
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 .form-container {
@@ -481,7 +480,6 @@ form{
   
   .inner_content {
     width: 100%;
-    height: 1200px;
   }
   
   .form-container {
@@ -494,7 +492,7 @@ form{
   
   .content h1 {
     font-size: 24px;
-    height: 300px;
+    height: 400px;
   }
   
   .content h3 {
